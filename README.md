@@ -6,7 +6,11 @@ PyBer is a python based ride share company.   Data has been collected from a num
 - fares
 - dates
 
-The company would like to use the data to improve acces to ride shares and improve affordability for under served neighborhoods. 
+The company would like to use the data to improve acces to ride shares and improve affordability for under served neighborhoods.
+
+The data sources include two .csv files:
+- [City Data](Resources/city_data.csv)
+- [Ride Data](Resources/ride_data.csv)
 
 ## Results
 Urban areas were found to have both the highest number of drivers as well as the highest number of rides given.  In addition, urban area average fare per ride was the lowest of each city type (urbran, suburban, rural).  Rural areas were on the opposite end of the spectrum with the least number of drivers, the least number of rides, and the highest average fare.  
